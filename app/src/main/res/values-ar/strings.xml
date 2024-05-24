@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فيسبوك</string>
+    <string name="facebook">فيسبوك</string>
+    <string name="num">رقم الهاتف او البريد الالكتروني</string>
+    <string name="pw">كلمة السر</string>
+    <string name="connexion">تسجيل الدخول</string>
+    <string name="mot_de_pass_oubli">هل نسيت كلمة السر ؟</string>
+    <string name="compte">انشاء حساب جديد</string>
+    <string name="aide">المساعدة</string>
+    <string name="quitter">الخروج</string>
+    <string name="error">"البريد الإلكتروني وكلمة المرور لا يمكن أن تكونا فارغتين"</string>
+
+
+</resources>
